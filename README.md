@@ -10,7 +10,7 @@ I'm a passionate *Software Developer* and *Tech Enthusiast* with a background in
 - *Tech Interests:* AI for Music Production, Smart Money Concepts (SMC) Trading Bots, Automation  
 
 ### 💼 Professional Background  
-- *Tech Support* at [Your Company] (2025)  
+- *Tech Support* at FHS (2025)  
 - Software Engineering graduate from *WeThinkCode_* (NQF Level 5, 2024)  
 - IT graduate from *EWC Germiston* (NQF Level 4, 2022)  
 - Experience in retail and inventory management systems  
