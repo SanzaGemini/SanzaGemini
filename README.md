@@ -4,10 +4,10 @@
 I'm a passionate *Software Developer* and *Tech Enthusiast* with a background in *Information Technology* and *Software Engineering*. I love building efficient and scalable solutions, solving complex problems, and exploring the latest trends in technology.
 
 ### 🛠 Skills & Interests  
-- *Programming Languages:* Java, Python, SQL  
-- *Frameworks & Tools:* Spring Boot, Docker, SQLite, JUnit  
+- *Programming Languages:* Java, Python, SQL, JavaScript, C#  
+- *Frameworks & Tools:* Spring Boot, React, Docker, Selenium, SQLite, JUnit  
 - *Development Areas:* Web Development, Backend Systems, Database Management  
-- *Tech Interests:* AI for Music Production, Smart Money Concepts (SMC) Trading Bots, Automation  
+- *Tech Interests:* AI powered Tools, Backend Api and Testing  
 
 ### 💼 Professional Background  
 - *Tech Support* at FHS (2025)  
@@ -17,7 +17,7 @@ I'm a passionate *Software Developer* and *Tech Enthusiast* with a background in
 
 ### 🌱 Currently Working On    
 - Exploring AI for creative projects  
-- Developing  and testing secure and scalable web applications  
+- Developing and testing secure and scalable web applications  
 
 ### 🎯 Goals  
 - Advance in full-stack development  
@@ -25,5 +25,5 @@ I'm a passionate *Software Developer* and *Tech Enthusiast* with a background in
 - Expand knowledge in AI and blockchain  
 
 ### 📫 Let's Connect    
-- *LinkedIn:* [https://www.linkedin.com/in/bhekumuzi-sanele-vilakazi-a74001289/] 
-- *Email:* [sanelevilakazi37@gmail.com]  
+- *LinkedIn:* [https://www.linkedin.com/in/bhekumuzi-sanele-vilakazi-a74001289/]  
+- *Email:* [sanelevilakazi37@gmail.com]
